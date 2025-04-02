@@ -15,10 +15,7 @@ To evaluate and compare different GAN variants for generating synthetic medical 
 - **Source**: [MedMNIST – DermMNIST](https://medmnist.com/)
 - **Classes**: 7 types of skin lesions
 - **Image Format**: RGB, resized to 64x64
-- **Local Path Used**:
-  ```
-  C:\Users\laksh\Downloads\dermamnist_224.npz
-  ```
+
 
 ---
 
@@ -60,8 +57,8 @@ To evaluate and compare different GAN variants for generating synthetic medical 
     <td align="center"><strong>WGAN-GP</strong></td>
   </tr>
   <tr>
-    <td><img src="samples/ls_gan_output.png" width="200"/></td>
-    <td><img src="samples/wgan_output.png" width="200"/></td>
+    <td><img src="https://github.com/parthsantosh2411/Gan_4/blob/main/lsgan.png" width="200"/></td>
+    <td><img src="https://github.com/parthsantosh2411/Gan_4/blob/main/wgan.png" width="200"/></td>
     <td><img src="https://github.com/parthsantosh2411/Gan_4/blob/main/wgan.png" width="200"/></td>
   </tr>
 </table>
