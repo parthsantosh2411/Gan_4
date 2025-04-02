@@ -62,7 +62,7 @@ To evaluate and compare different GAN variants for generating synthetic medical 
   <tr>
     <td><img src="samples/ls_gan_output.png" width="200"/></td>
     <td><img src="samples/wgan_output.png" width="200"/></td>
-    <td><img src="samples/wgan_gp_output.png" width="200"/></td>
+    <td><img src="https://github.com/parthsantosh2411/Gan_4/blob/main/wgan.png" width="200"/></td>
   </tr>
 </table>
 
